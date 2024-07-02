@@ -15,3 +15,12 @@ A Wireless Target Camera System based off the ESP32-CAM. A combination of progra
 - Locating Block - Screwed into the battery board, holds the ESM32-CAM motherboard in place.
 
 Note: Recommend ABS or PETG for 3D Printing due to outdoor use.
+
+#### UWP-Testing-VB - Simple Visual Studio 2022 Application to Read MJPEG Stream from the ESP32-CAM
+NuGet Packages
+- Microsoft.NETCore.UniversalWindowsPlatform - Version 6.1.9
+- MjpegProcessor - Version 1.0.0 - https://github.com/follesoe/MjpegProcessor
+
+Visual Studio Project Configuration (Visual Basic and C#)
+- Target Version - Windows 10, version 2004 (10.0; Build 19041)
+- Minimum Version - Windows 10, version 1809 (10.0; Build 17753)
