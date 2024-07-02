@@ -20,6 +20,7 @@ Note: Recommend ABS or PETG for 3D Printing due to outdoor use.
 This application is the testing application for reading the MJPEG stream and displaying it from the ESP32-CAM, please see information below on the required NuGet packages and configuration information. Developed using Microsoft Visual Studio 2022 and Visual Basic.
 
 NuGet Package - Microsoft.NETCore.UniversalWindowsPlatform - Version 6.1.9
+
 NuGet Package - MjpegProcessor - Version 1.0.0 - https://github.com/follesoe/MjpegProcessor
 
 Visual Studio 2022 Project Configuration (Visual Basic and C#)
