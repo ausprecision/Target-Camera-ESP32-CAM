@@ -13,4 +13,5 @@ A Wireless Target Camera System based off the ESP32-CAM. A combination of progra
 - Holder - Anetnna - Part is used for installing the antenna assembly.
 - Holder - Nut - Part used for locating/holding the UNC nut for tripods.
 - Locating Block - Screwed into the battery board, holds the ESM32-CAM motherboard in place.
+
 Note: Recommend ABS or PETG for 3D Printing due to outdoor use.
