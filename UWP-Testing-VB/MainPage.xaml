@@ -9,8 +9,11 @@
     Background="#FFF0EEF1">
 
     <Grid>
-        <Button x:Name="btnStart" Content="Start Stream" Height="94" Margin="134,174,0,0" VerticalAlignment="Top" Width="214"/>
-        <Button x:Name="btnStop" Content="Stop Stream" Height="90" Margin="134,311,0,0" VerticalAlignment="Top" Width="214"/>
-        <Image x:Name="ImageBox"  Source="/Assets/Square150x150Logo.scale-200.png" HorizontalAlignment="Left" Height="299" Margin="411,174,0,0" VerticalAlignment="Top" Width="339" Stretch="Fill"/>
+        <Button x:Name="btnStart" Content="Start Stream ESP32-CAM" Height="94" Margin="65,65,0,0" VerticalAlignment="Top" Width="214"/>
+        <Button x:Name="btnStop" Content="Stop Stream" Height="90" Margin="65,324,0,0" VerticalAlignment="Top" Width="214"/>
+        <Image x:Name="ImageBox"  Source="/Assets/Square150x150Logo.scale-200.png" HorizontalAlignment="Left" Height="349" Margin="345,65,0,0" VerticalAlignment="Top" Width="453" Stretch="Fill"/>
+        <Button x:Name="btnStart_ap" Content="Start Stream AP Demo" Height="94" Margin="65,174,0,0" VerticalAlignment="Top" Width="214"/>
+        <TextBlock x:Name="Label1" HorizontalAlignment="Left" Margin="65,452,0,0" TextWrapping="Wrap" Text="MJPEG Stream Resolution:" VerticalAlignment="Top" FontSize="16"/>
+        <TextBlock x:Name="Label2" HorizontalAlignment="Left" Margin="65,482,0,0" TextWrapping="Wrap" Text="Frames Per Second (FPS): " VerticalAlignment="Top" FontSize="16"/>
     </Grid>
 </Page>

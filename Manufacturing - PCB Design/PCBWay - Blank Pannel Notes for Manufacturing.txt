@@ -1,0 +1,1 @@
+PCB is just a blank panel for an enclosure. No electronics, no tracks, etc. The PCB is essentially a faceplate.

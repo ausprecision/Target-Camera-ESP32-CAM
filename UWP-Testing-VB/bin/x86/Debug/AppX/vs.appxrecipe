@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>87270120-228e-45df-8121-b5d20e448b97</PackageIdentityName>
     <PackageIdentityPublisher>CN=david</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>2BE40798F2CAF08459D59B18A7A0C7789F2F5D921E46D76591B6240DBA10D4F6</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>3B9244EFC66524A9197B8E1566774ADD5BCA992856C50140371E9D103FBFF778</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>87270120-228e-45df-8121-b5d20e448b97_1.0.0.0_x86__damzpawhsp48w</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>87270120-228e-45df-8121-b5d20e448b97_damzpawhsp48w!App</RegisteredUserModeAppID>
     <RegisteredPackageID>87270120-228e-45df-8121-b5d20e448b97</RegisteredPackageID>
@@ -27,16 +27,20 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-02T14:45:59.891</Modified>
+      <Modified>2024-07-10T11:37:11.933</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\bin\x86\Debug\UWP-Testing-VB.exe">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\UWP-Testing-VB.exe">
       <PackagePath>entrypoint\UWP-Testing-VB.exe</PackagePath>
-      <Modified>2024-07-02T14:45:59.088</Modified>
+      <Modified>2024-07-10T11:37:11.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\david\.nuget\packages\managednativewifi\2.6.0\lib\netstandard2.0\ManagedNativeWifi.dll">
+      <PackagePath>ManagedNativeWifi.dll</PackagePath>
+      <Modified>2024-07-04T22:21:22.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\mjpegprocessor\1.0.0\lib\netstandard1.6\MjpegProcessor.dll">
       <PackagePath>MjpegProcessor.dll</PackagePath>
@@ -702,67 +706,67 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2020-12-01T18:52:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\My Project\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\My Project\Default.rd.xml">
       <PackagePath>My Project\Default.rd.xml</PackagePath>
       <Modified>2024-07-02T14:09:03.448</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2024-02-17T05:01:07.389</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2024-02-17T05:01:07.395</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2024-02-17T05:01:07.397</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2024-02-17T05:01:07.399</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2024-02-17T05:01:07.400</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2024-02-17T05:01:07.401</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2024-02-17T05:01:07.402</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\bin\x86\Debug\UWP-Testing-VB.xr.xml">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\UWP-Testing-VB.xr.xml">
       <PackagePath>UWP-Testing-VB.xr.xml</PackagePath>
-      <Modified>2024-07-02T14:33:39.506</Modified>
+      <Modified>2024-07-09T22:24:54.998</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2024-07-02T14:45:58.975</Modified>
+      <Modified>2024-07-10T11:37:10.936</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2024-07-02T14:45:58.976</Modified>
+      <Modified>2024-07-10T11:37:10.937</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2020-12-01T16:52:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-07-02T14:36:17.591</Modified>
+      <Modified>2024-07-10T11:29:16.640</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\UWP-Testing-VB\bin\x86\Debug\Core\UWP-Testing-VB.exe">
+    <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\Core\UWP-Testing-VB.exe">
       <PackagePath>UWP-Testing-VB.exe</PackagePath>
-      <Modified>2024-07-02T14:45:59.883</Modified>
+      <Modified>2024-07-10T11:37:11.925</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

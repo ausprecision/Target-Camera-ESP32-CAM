@@ -15756,11 +15756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\UWP-Testing-VB\\UWP-Testing-VB.vbproj",
+      "projectUniqueName": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\UWP-Testing-VB\\UWP-Testing-VB.vbproj",
       "projectName": "UWP-Testing-VB",
-      "projectPath": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\UWP-Testing-VB\\UWP-Testing-VB.vbproj",
+      "projectPath": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\UWP-Testing-VB\\UWP-Testing-VB.vbproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\UWP-Testing-VB\\obj\\",
+      "outputPath": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\UWP-Testing-VB\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

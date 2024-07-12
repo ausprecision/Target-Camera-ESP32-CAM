@@ -25,6 +25,14 @@
       <RootProperty Name="Width" />
       <RootProperty Name="Stretch" />
     </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="FontSize" />
+    </RootType>
     <RootType FullName="UWP_Testing_VB.MainPage" />
   </Roots.RootTypes>
 </Roots>
