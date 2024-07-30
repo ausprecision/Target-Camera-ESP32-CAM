@@ -44,7 +44,7 @@ void handleUpdate()     { size_t fsize = UPDATE_SIZE_UNKNOWN; if (server.hasArg(
 
 void setup() {
   Serial.begin(9600);
-  delay(5000);
+  delay(2000);
 
   camera_config_t config;
   config.ledc_channel = LEDC_CHANNEL_0;
@@ -115,10 +115,8 @@ void setup() {
 #if defined(LED_GPIO_NUM)
   setupLedFlash(LED_GPIO_NUM);
 #endif
-  
-  
-  
-  battery_init();
+
+   battery_init();
   battery_read();
   spiffs_init();
   listDir(SPIFFS, "/", 0);

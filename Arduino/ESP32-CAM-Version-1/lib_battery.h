@@ -23,10 +23,19 @@ void battery_init() {
 
   pinMode(12, INPUT);
 
+  digitalWrite(LED_BLU, HIGH);
+  digitalWrite(13, HIGH);
+  digitalWrite(14, HIGH);
+  digitalWrite(15, HIGH);
+
+  delay(1000);
+
   digitalWrite(LED_BLU, LOW);
   digitalWrite(13, LOW);
   digitalWrite(14, LOW);
   digitalWrite(15, LOW);
+
+  delay(250);
 
   digitalWrite(2, LOW); //Turn on
   digitalWrite(13, LOW); //Turn on
