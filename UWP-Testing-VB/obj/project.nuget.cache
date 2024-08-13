@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZLGZx1jkXBUSce2JIYREnn9We/gD6t+U+jYdrCKsSmhZcBQHM2Szu4yMZPP4vWJK+xkWmhZ0iVja7p9g0Oe3JQ==",
+  "dgSpecHash": "faR1eCjZoxUwR0cED8aK+jHIZ8UlsnT+W6Z94aju3yWKNTJfqOfT3q5DJGattTwx5VRvIjAlVMpUlTn7f0BJ8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\UWP-Testing-VB\\UWP-Testing-VB.vbproj",
   "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\managednativewifi\\2.6.0\\managednativewifi.2.6.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.net.native.compiler\\2.1.8\\microsoft.net.native.compiler.2.1.8.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.1.2\\microsoft.net.uwpcoreruntimesdk.2.1.2.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

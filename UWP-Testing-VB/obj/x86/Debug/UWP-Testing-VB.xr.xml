@@ -33,6 +33,15 @@
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="FontSize" />
     </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="PlaceholderText" />
+    </RootType>
     <RootType FullName="UWP_Testing_VB.MainPage" />
   </Roots.RootTypes>
 </Roots>

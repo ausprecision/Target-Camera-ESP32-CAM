@@ -15,5 +15,10 @@
         <Button x:Name="btnStart_ap" Content="Start Stream AP Demo" Height="94" Margin="65,174,0,0" VerticalAlignment="Top" Width="214"/>
         <TextBlock x:Name="Label1" HorizontalAlignment="Left" Margin="65,452,0,0" TextWrapping="Wrap" Text="MJPEG Stream Resolution:" VerticalAlignment="Top" FontSize="16"/>
         <TextBlock x:Name="Label2" HorizontalAlignment="Left" Margin="65,482,0,0" TextWrapping="Wrap" Text="Frames Per Second (FPS): " VerticalAlignment="Top" FontSize="16"/>
+        <Button x:Name="button_setres" Content="Set Res UDP" Height="83" Margin="65,562,0,0" VerticalAlignment="Top" Width="214"/>
+        <TextBlock x:Name="lbl_status_wifi" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="[WiFi] Initializing..." VerticalAlignment="Top" FontSize="12" />
+        <TextBlock x:Name="lbl_status_camera" HorizontalAlignment="Left" Margin="10,27,0,0" TextWrapping="Wrap" Text="[Camera] Initializing..." VerticalAlignment="Top" FontSize="12" />
+        <TextBox x:Name="textbox_command" HorizontalAlignment="Left" Margin="467,562,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="331" PlaceholderText="Type a command to send"/>
+        <Button x:Name="button_send_command" Content="Send Command" Height="32" Margin="826,562,0,0" VerticalAlignment="Top" Width="214"/>
     </Grid>
 </Page>

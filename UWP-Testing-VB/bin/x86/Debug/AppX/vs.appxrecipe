@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-10T11:37:11.933</Modified>
+      <Modified>2024-08-09T12:14:28.491</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\UWP-Testing-VB.exe">
       <PackagePath>entrypoint\UWP-Testing-VB.exe</PackagePath>
-      <Modified>2024-07-10T11:37:11.042</Modified>
+      <Modified>2024-08-09T12:14:26.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\.nuget\packages\managednativewifi\2.6.0\lib\netstandard2.0\ManagedNativeWifi.dll">
       <PackagePath>ManagedNativeWifi.dll</PackagePath>
@@ -746,15 +746,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\UWP-Testing-VB.xr.xml">
       <PackagePath>UWP-Testing-VB.xr.xml</PackagePath>
-      <Modified>2024-07-09T22:24:54.998</Modified>
+      <Modified>2024-08-09T11:22:14.160</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2024-07-10T11:37:10.936</Modified>
+      <Modified>2024-08-09T12:14:26.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2024-07-10T11:37:10.937</Modified>
+      <Modified>2024-08-09T12:14:26.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -762,11 +762,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-07-10T11:29:16.640</Modified>
+      <Modified>2024-08-04T00:06:01.835</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\david\OneDrive\AUS Precision %28GitHub%29\Target-Camera-ESP32-CAM\UWP-Testing-VB\bin\x86\Debug\Core\UWP-Testing-VB.exe">
       <PackagePath>UWP-Testing-VB.exe</PackagePath>
-      <Modified>2024-07-10T11:37:11.925</Modified>
+      <Modified>2024-08-09T12:14:28.476</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -44,6 +44,10 @@
       "frameworks": {
         "uap10.0.17763": {
           "dependencies": {
+            "ManagedNativeWifi": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
             "Microsoft.NETCore.UniversalWindowsPlatform": {
               "target": "Package",
               "version": "[6.1.9, )"

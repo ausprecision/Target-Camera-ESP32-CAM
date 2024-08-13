@@ -15,6 +15,11 @@
         <Button x:ConnectionId='5' x:Name="btnStart_ap" Content="Start Stream AP Demo" Height="94" Margin="65,174,0,0" VerticalAlignment="Top" Width="214"/>
         <TextBlock x:ConnectionId='6' x:Name="Label1" HorizontalAlignment="Left" Margin="65,452,0,0" TextWrapping="Wrap" Text="MJPEG Stream Resolution:" VerticalAlignment="Top" FontSize="16"/>
         <TextBlock x:ConnectionId='7' x:Name="Label2" HorizontalAlignment="Left" Margin="65,482,0,0" TextWrapping="Wrap" Text="Frames Per Second (FPS): " VerticalAlignment="Top" FontSize="16"/>
+        <Button x:ConnectionId='8' x:Name="button_setres" Content="Set Res UDP" Height="83" Margin="65,562,0,0" VerticalAlignment="Top" Width="214"/>
+        <TextBlock x:ConnectionId='9' x:Name="lbl_status_wifi" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="[WiFi] Initializing..." VerticalAlignment="Top" FontSize="12" />
+        <TextBlock x:ConnectionId='10' x:Name="lbl_status_camera" HorizontalAlignment="Left" Margin="10,27,0,0" TextWrapping="Wrap" Text="[Camera] Initializing..." VerticalAlignment="Top" FontSize="12" />
+        <TextBox x:ConnectionId='11' x:Name="textbox_command" HorizontalAlignment="Left" Margin="467,562,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="331" PlaceholderText="Type a command to send"/>
+        <Button x:ConnectionId='12' x:Name="button_send_command" Content="Send Command" Height="32" Margin="826,562,0,0" VerticalAlignment="Top" Width="214"/>
     </Grid>
 </Page>
 

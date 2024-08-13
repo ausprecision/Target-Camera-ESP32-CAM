@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "UAP,Version=v10.0.17763": {
+      "ManagedNativeWifi/2.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.1.8": {
         "type": "package",
         "dependencies": {
@@ -811,6 +824,19 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-arm": {
+      "ManagedNativeWifi/2.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.1.8": {
         "type": "package",
         "dependencies": {
@@ -2043,6 +2069,19 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-arm-aot": {
+      "ManagedNativeWifi/2.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.1.8": {
         "type": "package",
         "dependencies": {
@@ -3451,6 +3490,19 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-arm64-aot": {
+      "ManagedNativeWifi/2.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.1.8": {
         "type": "package",
         "dependencies": {
@@ -4508,6 +4560,19 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-x64": {
+      "ManagedNativeWifi/2.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.1.8": {
         "type": "package",
         "dependencies": {
@@ -5740,6 +5805,19 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-x64-aot": {
+      "ManagedNativeWifi/2.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.1.8": {
         "type": "package",
         "dependencies": {
@@ -7148,6 +7226,19 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-x86": {
+      "ManagedNativeWifi/2.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.1.8": {
         "type": "package",
         "dependencies": {
@@ -8380,6 +8471,19 @@
       }
     },
     "UAP,Version=v10.0.17763/win10-x86-aot": {
+      "ManagedNativeWifi/2.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/ManagedNativeWifi.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Net.Native.Compiler/2.1.8": {
         "type": "package",
         "dependencies": {
@@ -9789,6 +9893,21 @@
     }
   },
   "libraries": {
+    "ManagedNativeWifi/2.6.0": {
+      "sha512": "/T7OIS+G7qg+YeZVu8MhFky+zS1p9Q+/6UOb0M0nNF5GXfGRgCmReiYrYlq2BFFFehkQwhKkjWA7KuDm9aAmFg==",
+      "type": "package",
+      "path": "managednativewifi/2.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/ManagedNativeWifi.dll",
+        "lib/net6.0/ManagedNativeWifi.xml",
+        "lib/netstandard2.0/ManagedNativeWifi.dll",
+        "lib/netstandard2.0/ManagedNativeWifi.xml",
+        "managednativewifi.2.6.0.nupkg.sha512",
+        "managednativewifi.nuspec"
+      ]
+    },
     "Microsoft.Net.Native.Compiler/2.1.8": {
       "sha512": "7836QmE441s7vynQ4M3clWsbZIn3kzM9OqxZfhPTFTpqntHT5qt/T/2Qcg6gO+xlYqfCqaBq6TN0doGn2Ggc2Q==",
       "type": "package",
@@ -15744,6 +15863,7 @@
   },
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.17763": [
+      "ManagedNativeWifi >= 2.6.0",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.1.9",
       "MjpegProcessor >= 1.0.0"
     ]
@@ -15793,6 +15913,10 @@
     "frameworks": {
       "uap10.0.17763": {
         "dependencies": {
+          "ManagedNativeWifi": {
+            "target": "Package",
+            "version": "[2.6.0, )"
+          },
           "Microsoft.NETCore.UniversalWindowsPlatform": {
             "target": "Package",
             "version": "[6.1.9, )"
