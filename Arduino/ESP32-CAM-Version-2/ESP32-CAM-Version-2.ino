@@ -215,7 +215,7 @@ void setup() {
   listDir(SPIFFS, "/", 1);
   
   WiFi.mode(WIFI_AP);
-  WiFi.softAP("apcamera", "tspass2000");  // Set up the SoftAP
+  WiFi.softAP("apcamera", "tspass2000",11,0,4);  // Set up the SoftAP
   webServerInit(); 
   setupTelnet();
   tkSecond.attach(1, everySecond);
