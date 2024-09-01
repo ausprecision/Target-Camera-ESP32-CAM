@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - UWP-VB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC971A1-50D7-4AE2-9092-F6A255435967}|UWP-Testing-VB.vbproj|c:\\users\\david\\onedrive\\aus precision (github)\\target-camera-esp32-cam\\visual studio - uwp-vb\\mainpage.xaml.vb||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1EC971A1-50D7-4AE2-9092-F6A255435967}|UWP-Testing-VB.vbproj|solutionrelative:mainpage.xaml.vb||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC971A1-50D7-4AE2-9092-F6A255435967}|UWP-Testing-VB.vbproj|C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - UWP-VB\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EC971A1-50D7-4AE2-9092-F6A255435967}|UWP-Testing-VB.vbproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC971A1-50D7-4AE2-9092-F6A255435967}|UWP-Testing-VB.vbproj|C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - UWP-VB\\app.xaml.vb||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1EC971A1-50D7-4AE2-9092-F6A255435967}|UWP-Testing-VB.vbproj|solutionrelative:app.xaml.vb||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - UWP-VB\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - UWP-VB\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-31T10:35:01.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - UWP-VB\\MainPage.xaml.vb",
+              "RelativeDocumentMoniker": "MainPage.xaml.vb",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - UWP-VB\\MainPage.xaml.vb",
+              "RelativeToolTip": "MainPage.xaml.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-31T10:35:04.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - UWP-VB\\App.xaml.vb",
+              "RelativeDocumentMoniker": "App.xaml.vb",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - UWP-VB\\App.xaml.vb",
+              "RelativeToolTip": "App.xaml.vb",
+              "ViewState": "AQIAAGkAAAAAAAAAAADgv4QAAAALAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-31T10:35:04.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

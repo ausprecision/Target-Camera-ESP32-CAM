@@ -1,0 +1,1 @@
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\UWP-Testing-VB\UWP-Testing-VB.vbproj;arm
