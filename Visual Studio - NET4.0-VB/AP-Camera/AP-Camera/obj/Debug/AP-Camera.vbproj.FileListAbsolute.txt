@@ -1,0 +1,30 @@
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\bin\Debug\AP-Camera.exe.config
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\bin\Debug\AP-Camera.exe
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\bin\Debug\AP-Camera.pdb
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\bin\Debug\AP-Camera.xml
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\bin\Debug\ManagedWifi.dll
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\bin\Debug\MjpegProcessor.dll
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.vbproj.AssemblyReference.cache
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP_Camera.Form1.resources
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP_Camera.Resources.resources
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.vbproj.GenerateResource.cache
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.vbproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.vbproj.CopyComplete
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.exe
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.xml
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\VS-NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.pdb
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\bin\Debug\AP-Camera.exe.config
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\bin\Debug\AP-Camera.exe
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\bin\Debug\AP-Camera.pdb
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\bin\Debug\AP-Camera.xml
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\bin\Debug\ManagedWifi.dll
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\bin\Debug\MjpegProcessor.dll
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.vbproj.AssemblyReference.cache
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP_Camera.Form1.resources
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP_Camera.Resources.resources
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.vbproj.GenerateResource.cache
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.vbproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.vbproj.CopyComplete
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.exe
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.xml
+C:\Users\david\OneDrive\AUS Precision (GitHub)\Target-Camera-ESP32-CAM\Visual Studio - NET4.0-VB\AP-Camera\AP-Camera\obj\Debug\AP-Camera.pdb
