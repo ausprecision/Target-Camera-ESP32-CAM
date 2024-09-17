@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - NET4.0-VB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{558A09FD-00F5-4B53-A1E5-3647C1F80CD4}|AP-Camera\\AP-Camera.vbproj|c:\\users\\david\\onedrive\\aus precision (github)\\target-camera-esp32-cam\\visual studio - net4.0-vb\\ap-camera\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{558A09FD-00F5-4B53-A1E5-3647C1F80CD4}|AP-Camera\\AP-Camera.vbproj|solutionrelative:ap-camera\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558A09FD-00F5-4B53-A1E5-3647C1F80CD4}|AP-Camera\\AP-Camera.vbproj|C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - NET4.0-VB\\ap-camera\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{558A09FD-00F5-4B53-A1E5-3647C1F80CD4}|AP-Camera\\AP-Camera.vbproj|solutionrelative:ap-camera\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - NET4.0-VB\\AP-Camera\\Form1.vb",
+              "RelativeDocumentMoniker": "AP-Camera\\Form1.vb",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - NET4.0-VB\\AP-Camera\\Form1.vb",
+              "RelativeToolTip": "AP-Camera\\Form1.vb",
+              "ViewState": "AQIAABsAAAAAAAAAAIAowC8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-25T07:00:26.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - NET4.0-VB\\AP-Camera\\Form1.vb",
+              "RelativeDocumentMoniker": "AP-Camera\\Form1.vb",
+              "ToolTip": "C:\\Users\\david\\OneDrive\\AUS Precision (GitHub)\\Target-Camera-ESP32-CAM\\Visual Studio - NET4.0-VB\\AP-Camera\\Form1.vb [Design]",
+              "RelativeToolTip": "AP-Camera\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-25T07:00:32.749Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
