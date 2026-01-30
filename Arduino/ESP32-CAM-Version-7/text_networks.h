@@ -1,0 +1,38 @@
+// Literal string
+const char *txtNetworks = R"literal(
+KB Article: AP100002
+Product(s): AUS Precision Disk Operating System
+Version(s): AP-DOS:1.00
+Keyword(s): apdos, networks
+Last Modified: 23-SEP-2024
+-------------------------------------------------------------------------------
+The information in this article applies to:
+
+- AUS Precision AP-DOS Operating System Version 1.00 
+-------------------------------------------------------------------------------
+
+SUMMARY
+=======
+
+The following information was taken from the AP-DOS 1.00 NETWORKS.TXT file.
+This file is referred to in the AP-DOS1 Concise User's Guide and refers to how
+AP-DOS communicates with the hardware of your ESP32 based target camera system
+hardware over wireless networks and applications existing on those network.
+
+
+1. WIRELESS NETWORK COMPATIBILITY WITH AP-DOS
+=============================================
+1.1 AP-DOS is accessed via a telnet client running on any device that can
+open up a telnet session. Telnet is available on Microsoft Windows based
+operating systems, including Windows 95, 98, XP, Windows 7, Windows 10 and
+Windows 11 computers.
+
+1.2 Any client device that has built in or external wireless adapters can
+connect to AP-DOS along with any ESP32 based target camera system. The main
+protocols used are TCP/IP which supports Telnet, HTTP, UDP, and ICMP protocols.
+
+1.3 For more complex target camera system environments, some customers might
+have network bridges or other interfaces that run off a combination of fixed
+ethernet LAN connections as well as wireless connections. As long as those
+networks support TCP/IP, then then the above protcols can be accessed.
+)literal";
